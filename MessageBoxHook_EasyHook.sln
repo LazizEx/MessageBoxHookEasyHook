@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxHook_EasyHook", "MessageBoxHook_EasyHook\MessageBoxHook_EasyHook.csproj", "{E5D60132-99C9-4025-BCAB-F5AE54C4754B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectionLib", "InjectionLib\InjectionLib.csproj", "{BC751323-DDB0-4B2A-A5BB-B8046B978543}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E5D60132-99C9-4025-BCAB-F5AE54C4754B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5D60132-99C9-4025-BCAB-F5AE54C4754B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5D60132-99C9-4025-BCAB-F5AE54C4754B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC751323-DDB0-4B2A-A5BB-B8046B978543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC751323-DDB0-4B2A-A5BB-B8046B978543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC751323-DDB0-4B2A-A5BB-B8046B978543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC751323-DDB0-4B2A-A5BB-B8046B978543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
